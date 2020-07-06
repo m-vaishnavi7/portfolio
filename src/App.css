@@ -1,0 +1,86 @@
+.row-header {
+  margin: 0px auto;
+  padding: 0px auto;
+}
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 300px;
+}
+
+.footer {
+  background-color: white;
+  margin: 0px auto;
+  padding: 20px 0px 20px 0px;
+}
+
+.jumbotron {
+  
+  padding: 70px 50px 70px 50px;
+  margin: 0px;
+  color: floralwhite;
+  min-height: 590px;
+}
+
+.address {
+  font-size: 80%;
+  margin: 0px;
+  color: #0f0f0f;
+}
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0;
+}
+
+
+.navbar-light {
+  background-color: white;
+}
+
+.bg-overlay {
+  background: linear-gradient(rgba(0,0,0,.9), rgba(0,0,0,.9)), url("https://unsplash.imgix.net/photo-1416339442236-8ceb164046f8?q=75&fm=jpg&s=8eb83df8a744544977722717b1ea4d09");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: #fff;
+  height: 550px;
+  padding-top: 50px;
+}
+
+.masthead {
+  height: 100vh;
+  min-height: 550px;background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+@media (min-width: 400px) {
+  h1 {
+      font-size: 1.3rem;
+  }
+}
+
+@media (min-width: 600px) {
+  h1 {
+      font-size: 1.6rem;
+  }
+}
+
+@media (min-width: 800px) {
+  h1 {
+      font-size: 1.9rem;
+  }
+}
+
+@media (min-width: 1000px) {
+  h1 {
+      font-size: 5rem;
+  }
+}
