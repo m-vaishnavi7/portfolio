@@ -35,11 +35,13 @@ class Home extends Component {
                             </Card>
                         </div>
                         <div className="col-12 col-md-9">
-                        <p>I intend to be a part of organization where I can constantly learn and develop my technical and
-management skills and make best use of it for the growth of the organization. I look forward of
+                        <p>I am a 4th year CSE student in Mahatma Gandhi Institute of Technology, Hyderabad. I look forward of
 establishing myself by adapting new technologies as well. I want to pursue a challenging career and be
 part of a progressive organization that gives scope to enhance my knowledge, skills and to reach the
-pinnacle in the computing field with sheer determination, dedication and hard work.</p>
+pinnacle in the computing field with sheer determination, dedication and hard work.<br/><br/></p>
+                        <p>
+                            Email: &emsp; vaishnavi.madh10@gmail.com
+                        </p>
                         </div>
                     </div>
                 </div>
